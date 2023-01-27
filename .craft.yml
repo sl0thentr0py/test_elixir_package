@@ -1,0 +1,4 @@
+targets:
+  - name: hex
+artifactProvider:
+  name: none

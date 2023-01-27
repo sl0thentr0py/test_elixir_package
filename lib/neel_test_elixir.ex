@@ -15,4 +15,8 @@ defmodule NeelTestElixir do
   def hello do
     :world
   end
+
+  def foo do
+    :foo
+  end
 end
