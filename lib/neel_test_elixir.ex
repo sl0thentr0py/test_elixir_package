@@ -19,4 +19,8 @@ defmodule NeelTestElixir do
   def foo do
     :foo
   end
+
+  def bar do
+    :bar
+  end
 end
